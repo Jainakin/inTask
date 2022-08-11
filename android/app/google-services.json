@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653095807041",
+    "project_id": "intask-4fb10",
+    "storage_bucket": "intask-4fb10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653095807041:android:a40fa0a8fca6fd646efec0",
+        "android_client_info": {
+          "package_name": "com.DoYouEvenLiftBro.inTask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653095807041-h3ttc5tiaaq95pfftameltopchb9efmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgmpXgC8C2VEYfqxzKsLXg_MX2MAAtEhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653095807041-h3ttc5tiaaq95pfftameltopchb9efmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
